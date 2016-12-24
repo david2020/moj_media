@@ -1,5 +1,5 @@
 #include "HelloWorldScene.h"
-
+//salammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 USING_NS_CC;
 
 Scene* HelloWorld::createScene()
